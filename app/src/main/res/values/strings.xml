@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="glasses">glasses</string>
+    <string name="table">table</string>
+    <string name="chair">chair</string>
+    <string name="waiter">waiter</string>
+    <string name="food">food</string>
+    <string name="chicken">chicken</string>
+    <string name="mutton">mutton</string>
+    <string name="haleem">haleem</string>
+    <string name="friedrice">friedrice</string>
+    <string name="biryani">biryani</string>
+    <string name="beach">beach</string>
+    <string name="club">club</string>
+    <string name="tent">tent house</string>
+    <string name="swimming">swimming</string>
+    <string name="nightresort">nightresort</string>
+    <string name="rooms">Four rooms</string>
+    <string name="hotels">Hotels</string>
+    <string name="beachindubai">Beach in Dubai</string>
+    <string name="Clubathyd">Club at Hyderababd</string>
+    <string name="Lpa">Laptop for all</string>
+    <string name="tentatnight">Tent at night</string>
+    <string name="swimmingpool">Swimmingpool</string>
+    <string name="rooom">room</string>
+    <string name="nightdance">Night dance</string>
+    <string name="woman">woman</string>
+    <string name="boating">boating</string>
+    <string name="taj">taj</string>
+    <string name="tajmahal">tajmahal</string>
+    <string name="telephone">telephone</string>
+    <string name="wheel">wheel</string>
+    <string name="london">london</string>
+    <string name="boat">boat</string>
+    <string name="dubai">dubai</string>
+    <string name="hotel">Hotel</string>
+    <string name="places">Places</string>
+    <string name="events">Events</string>
+    <string name="foods">Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
